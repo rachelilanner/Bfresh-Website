@@ -1,0 +1,90 @@
+﻿<Page x:Class="WpfApp1.PageUpdateCategory"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageUpdateCategory" >
+    <Page.Background>
+        <ImageBrush ImageSource="\Images\Logo2.png" Stretch="UniformToFill"/>
+    </Page.Background>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" ></ColumnDefinition>
+            <ColumnDefinition Width="*"  ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.ColumnSpan="4">
+
+            <Button Width="150" Height="150" Background="#FF6D4C41" Content="Update Category" x:Name="btnUpdateCategory" Click="btnUpdateCategory_Click"
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                BorderBrush="White" BorderThickness="2" FontSize="16">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            CornerRadius="75">
+                            <Grid>
+                                <TextBlock Text="{TemplateBinding Content}" 
+                                       HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                       Foreground="White" FontWeight="Bold" FontSize="16"/>
+                            </Grid>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+        </StackPanel>
+        <ListView  FlowDirection="LeftToRight" Grid.Row="1" x:Name="lsvCategory" >
+            <ListView.View >
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Id}" Header="Category Id" Width="200" ></GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding CategoryName}" Header="Category"  Width="193" ></GridViewColumn>
+
+
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Grid x:Name="grd" Grid.Row="1" Grid.Column="1" Visibility="Hidden"  >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" ></ColumnDefinition>
+                <ColumnDefinition Width="2*" ></ColumnDefinition>
+                <ColumnDefinition Width="2*" ></ColumnDefinition>
+                <ColumnDefinition Width="*" ></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.ColumnSpan="2" Text="Update Category Information:" FontSize="17" FontWeight="Bold" TextDecorations="Underline" ></TextBlock>
+            <TextBox x:Name="txtItemName" Grid.Column="2" BorderThickness="2" BorderBrush="Black" Margin="10" Grid.Row="1" Text="{Binding CategoryName}" ></TextBox>
+
+
+            <TextBlock Text="Item Name:" Grid.Column="1" Foreground="Black" Grid.Row="1"  FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Segoe Print"></TextBlock>
+            <TextBlock Text="Price Small:" Grid.Column="1"  Grid.Row="3" Foreground="Black" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"  FontFamily="Segoe Print" ></TextBlock>
+            <TextBlock Text="Price Medium:" Grid.Column="1"  Grid.Row="4" Foreground="Black" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"  FontFamily="Segoe Print" ></TextBlock>
+            <TextBlock Text="Price Large:" Grid.Column="1"  Grid.Row="5" Foreground="Black" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"  FontFamily="Segoe Print" ></TextBlock>
+            <TextBox x:Name="txtSmall" Grid.Column="2" BorderThickness="2" BorderBrush="Black" Margin="10" Grid.Row="3" Text="{Binding PriceSmall}" ></TextBox>
+            <TextBox x:Name="txtMedium"  Grid.Column="2" BorderThickness="2" BorderBrush="Black" Margin="10" Grid.Row="4" Text="{Binding PriceMedium}" ></TextBox>
+            <TextBox x:Name="txtLarge" Grid.Column="2" BorderThickness="2" BorderBrush="Black" Margin="10" Grid.Row="5" Text="{Binding PriceLarge}" ></TextBox>
+
+
+            <Button x:Name="btnOK" Grid.Column="1" Grid.ColumnSpan="2" Margin="5"  Content="UPDATE"  Grid.Row="6"  Foreground="#FF01010D" Background="#FFC6C6C6" Click="btnOK_Click"  />
+
+        </Grid>
+    </Grid>
+
+</Page>

@@ -1,0 +1,591 @@
+M:\BFresh\WpfApp1\Host\bin\Debug\Host.exe.config
+M:\BFresh\WpfApp1\Host\bin\Debug\Host.exe
+M:\BFresh\WpfApp1\Host\bin\Debug\Host.pdb
+M:\BFresh\WpfApp1\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\BFresh\WpfApp1\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\BFresh\WpfApp1\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\BFresh\WpfApp1\Host\obj\Debug\MainWindow.g.cs
+M:\BFresh\WpfApp1\Host\obj\Debug\App.g.cs
+M:\BFresh\WpfApp1\Host\obj\Debug\Host_MarkupCompile.cache
+M:\BFresh\WpfApp1\Host\obj\Debug\Host_MarkupCompile.lref
+M:\BFresh\WpfApp1\Host\obj\Debug\MainWindow.baml
+M:\BFresh\WpfApp1\Host\obj\Debug\Host.g.resources
+M:\BFresh\WpfApp1\Host\obj\Debug\Host.Properties.Resources.resources
+M:\BFresh\WpfApp1\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\BFresh\WpfApp1\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\BFresh\WpfApp1\Host\obj\Debug\Host.csproj.Up2Date
+M:\BFresh\WpfApp1\Host\obj\Debug\Host.exe
+M:\BFresh\WpfApp1\Host\obj\Debug\Host.pdb
+E:\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+E:\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+E:\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+E:\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+E:\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+E:\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+E:\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+E:\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+E:\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+E:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+E:\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+E:\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+E:\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+E:\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+E:\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+E:\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+E:\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+E:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+E:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+E:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+E:\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+E:\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+F:\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+F:\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+F:\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+F:\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+F:\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+F:\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+F:\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+F:\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+F:\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+F:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+F:\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+F:\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+F:\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+F:\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+F:\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+F:\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+F:\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+F:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+F:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+F:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+F:\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+F:\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+D:\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+D:\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+D:\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+D:\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+D:\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+D:\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+D:\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+D:\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+D:\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+D:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+D:\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+D:\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+D:\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+D:\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+D:\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+D:\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+D:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+D:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+D:\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+D:\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+M:\גיבוי\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+M:\גיבוי\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+M:\גיבוי\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+M:\גיבוי\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\גיבוי\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+M:\גיבוי\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+M:\גיבוי\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\גיבוי\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+M:\גיבוי\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+M:\גיבוי\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CopyComplete
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+C:\Racheli Projects\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+M:\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+M:\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+M:\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+M:\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+M:\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+M:\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+M:\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+M:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+M:\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+M:\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+M:\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+M:\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+M:\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+M:\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+M:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+M:\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+M:\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+C:\Users\HOME\Desktop\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+M:\גיבוי\4שרת-לקוח\SERVER\Host\bin\Debug\Host.exe.config
+M:\גיבוי\4שרת-לקוח\SERVER\Host\bin\Debug\Host.exe
+M:\גיבוי\4שרת-לקוח\SERVER\Host\bin\Debug\Host.pdb
+M:\גיבוי\4שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\גיבוי\4שרת-לקוח\SERVER\Host\bin\Debug\Model.dll
+M:\גיבוי\4שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+M:\גיבוי\4שרת-לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\גיבוי\4שרת-לקוח\SERVER\Host\bin\Debug\Model.pdb
+M:\גיבוי\4שרת-לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\App.g.cs
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\Host.g.resources
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\Host.exe
+M:\גיבוי\4שרת-לקוח\SERVER\Host\obj\Debug\Host.pdb
+M:\גיבוי\שרת לקוח 5\SERVER\Host\bin\Debug\Host.exe.config
+M:\גיבוי\שרת לקוח 5\SERVER\Host\bin\Debug\Host.exe
+M:\גיבוי\שרת לקוח 5\SERVER\Host\bin\Debug\Host.pdb
+M:\גיבוי\שרת לקוח 5\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\גיבוי\שרת לקוח 5\SERVER\Host\bin\Debug\Model.dll
+M:\גיבוי\שרת לקוח 5\SERVER\Host\bin\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 5\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\גיבוי\שרת לקוח 5\SERVER\Host\bin\Debug\Model.pdb
+M:\גיבוי\שרת לקוח 5\SERVER\Host\bin\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\App.g.cs
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\Host.g.resources
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\Host.exe
+M:\גיבוי\שרת לקוח 5\SERVER\Host\obj\Debug\Host.pdb
+E:\שרת לקוח 6\SERVER\Host\bin\Debug\Host.exe.config
+E:\שרת לקוח 6\SERVER\Host\bin\Debug\Host.exe
+E:\שרת לקוח 6\SERVER\Host\bin\Debug\Host.pdb
+E:\שרת לקוח 6\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+E:\שרת לקוח 6\SERVER\Host\bin\Debug\Model.dll
+E:\שרת לקוח 6\SERVER\Host\bin\Debug\ViewModel.dll
+E:\שרת לקוח 6\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+E:\שרת לקוח 6\SERVER\Host\bin\Debug\Model.pdb
+E:\שרת לקוח 6\SERVER\Host\bin\Debug\ViewModel.pdb
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\MainWindow.g.cs
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\App.g.cs
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\MainWindow.baml
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\Host.g.resources
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\Host.exe
+E:\שרת לקוח 6\SERVER\Host\obj\Debug\Host.pdb
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\bin\Debug\Host.exe.config
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\bin\Debug\Host.exe
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\bin\Debug\Host.pdb
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\bin\Debug\Model.dll
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\bin\Debug\ViewModel.dll
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\bin\Debug\Model.pdb
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\bin\Debug\ViewModel.pdb
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\Host.g.resources
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\Host.exe
+C:\Racheli Projects\שרת לקוח 7\SERVER\Host\obj\Debug\Host.pdb
+M:\גיבוי\שרת לקוח 7\SERVER\Host\bin\Debug\Host.exe.config
+M:\גיבוי\שרת לקוח 7\SERVER\Host\bin\Debug\Host.exe
+M:\גיבוי\שרת לקוח 7\SERVER\Host\bin\Debug\Host.pdb
+M:\גיבוי\שרת לקוח 7\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\גיבוי\שרת לקוח 7\SERVER\Host\bin\Debug\Model.dll
+M:\גיבוי\שרת לקוח 7\SERVER\Host\bin\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 7\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\גיבוי\שרת לקוח 7\SERVER\Host\bin\Debug\Model.pdb
+M:\גיבוי\שרת לקוח 7\SERVER\Host\bin\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\App.g.cs
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\Host.g.resources
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\Host.exe
+M:\גיבוי\שרת לקוח 7\SERVER\Host\obj\Debug\Host.pdb
+D:\שרת לקוח 8\SERVER\Host\bin\Debug\Host.exe.config
+D:\שרת לקוח 8\SERVER\Host\bin\Debug\Host.exe
+D:\שרת לקוח 8\SERVER\Host\bin\Debug\Host.pdb
+D:\שרת לקוח 8\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+D:\שרת לקוח 8\SERVER\Host\bin\Debug\Model.dll
+D:\שרת לקוח 8\SERVER\Host\bin\Debug\ViewModel.dll
+D:\שרת לקוח 8\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+D:\שרת לקוח 8\SERVER\Host\bin\Debug\Model.pdb
+D:\שרת לקוח 8\SERVER\Host\bin\Debug\ViewModel.pdb
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\MainWindow.g.cs
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\App.g.cs
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\MainWindow.baml
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\Host.g.resources
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\Host.exe
+D:\שרת לקוח 8\SERVER\Host\obj\Debug\Host.pdb
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\bin\Debug\Host.exe.config
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\bin\Debug\Host.exe
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\bin\Debug\Host.pdb
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\bin\Debug\Model.dll
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\bin\Debug\ViewModel.dll
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\bin\Debug\Model.pdb
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\bin\Debug\ViewModel.pdb
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\Host.g.resources
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\Host.exe
+C:\Racheli Projects\שרת לקוח 8\SERVER\Host\obj\Debug\Host.pdb
+M:\גיבוי\שרת לקוח 9\SERVER\Host\bin\Debug\Host.exe.config
+M:\גיבוי\שרת לקוח 9\SERVER\Host\bin\Debug\Host.exe
+M:\גיבוי\שרת לקוח 9\SERVER\Host\bin\Debug\Host.pdb
+M:\גיבוי\שרת לקוח 9\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\גיבוי\שרת לקוח 9\SERVER\Host\bin\Debug\Model.dll
+M:\גיבוי\שרת לקוח 9\SERVER\Host\bin\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 9\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\גיבוי\שרת לקוח 9\SERVER\Host\bin\Debug\Model.pdb
+M:\גיבוי\שרת לקוח 9\SERVER\Host\bin\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\App.g.cs
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\Host.g.resources
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\Host.exe
+M:\גיבוי\שרת לקוח 9\SERVER\Host\obj\Debug\Host.pdb
+D:\שרת לקוח 10\SERVER\Host\bin\Debug\Host.exe.config
+D:\שרת לקוח 10\SERVER\Host\bin\Debug\Host.exe
+D:\שרת לקוח 10\SERVER\Host\bin\Debug\Host.pdb
+D:\שרת לקוח 10\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+D:\שרת לקוח 10\SERVER\Host\bin\Debug\Model.dll
+D:\שרת לקוח 10\SERVER\Host\bin\Debug\ViewModel.dll
+D:\שרת לקוח 10\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+D:\שרת לקוח 10\SERVER\Host\bin\Debug\Model.pdb
+D:\שרת לקוח 10\SERVER\Host\bin\Debug\ViewModel.pdb
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\MainWindow.g.cs
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\App.g.cs
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\MainWindow.baml
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\Host.g.resources
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\Host.exe
+D:\שרת לקוח 10\SERVER\Host\obj\Debug\Host.pdb
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\bin\Debug\Host.exe.config
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\bin\Debug\Host.exe
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\bin\Debug\Host.pdb
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\bin\Debug\Model.dll
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\bin\Debug\ViewModel.dll
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\bin\Debug\Model.pdb
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\bin\Debug\ViewModel.pdb
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\Host.g.resources
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\Host.exe
+C:\Racheli Projects\שרת לקוח 10\SERVER\Host\obj\Debug\Host.pdb
+M:\גיבוי\שרת לקוח 10\SERVER\Host\bin\Debug\Host.exe.config
+M:\גיבוי\שרת לקוח 10\SERVER\Host\bin\Debug\Host.exe
+M:\גיבוי\שרת לקוח 10\SERVER\Host\bin\Debug\Host.pdb
+M:\גיבוי\שרת לקוח 10\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\גיבוי\שרת לקוח 10\SERVER\Host\bin\Debug\Model.dll
+M:\גיבוי\שרת לקוח 10\SERVER\Host\bin\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 10\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\גיבוי\שרת לקוח 10\SERVER\Host\bin\Debug\Model.pdb
+M:\גיבוי\שרת לקוח 10\SERVER\Host\bin\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\App.g.cs
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\Host.g.resources
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\Host.exe
+M:\גיבוי\שרת לקוח 10\SERVER\Host\obj\Debug\Host.pdb
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\bin\Debug\Host.exe.config
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\bin\Debug\Host.exe
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\bin\Debug\Host.pdb
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\bin\Debug\Model.dll
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\bin\Debug\ViewModel.dll
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\bin\Debug\Model.pdb
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\bin\Debug\ViewModel.pdb
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\Host.g.resources
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\Host.exe
+C:\Racheli Projects\שרת לקוח 11\SERVER\Host\obj\Debug\Host.pdb
+M:\גיבוי\שרת לקוח 11\SERVER\Host\bin\Debug\Host.exe.config
+M:\גיבוי\שרת לקוח 11\SERVER\Host\bin\Debug\Host.exe
+M:\גיבוי\שרת לקוח 11\SERVER\Host\bin\Debug\Host.pdb
+M:\גיבוי\שרת לקוח 11\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+M:\גיבוי\שרת לקוח 11\SERVER\Host\bin\Debug\Model.dll
+M:\גיבוי\שרת לקוח 11\SERVER\Host\bin\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 11\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+M:\גיבוי\שרת לקוח 11\SERVER\Host\bin\Debug\Model.pdb
+M:\גיבוי\שרת לקוח 11\SERVER\Host\bin\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\App.g.cs
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\Host.g.resources
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\Host.exe
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\Host.pdb
+M:\גיבוי\שרת לקוח 11\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\bin\Debug\Host.exe.config
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\bin\Debug\Host.exe
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\bin\Debug\Host.pdb
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.dll
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\bin\Debug\Model.dll
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\bin\Debug\ViewModel.dll
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\bin\Debug\WcfServiceLibrary1.pdb
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\bin\Debug\Model.pdb
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\bin\Debug\ViewModel.pdb
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\MainWindow.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\App.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.cache
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\Host_MarkupCompile.lref
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\MainWindow.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\Host.g.resources
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\Host.Properties.Resources.resources
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\Host.csproj.GenerateResource.cache
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\Host.csproj.Up2Date
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\Host.exe
+D:\פרוייקט ביפרש להגשה\שרת לקוח\SERVER\Host\obj\Debug\Host.pdb

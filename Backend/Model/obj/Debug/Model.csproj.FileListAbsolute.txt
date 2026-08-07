@@ -1,0 +1,46 @@
+M:\BFresh\WpfApp1\Model\bin\Debug\Model.dll
+M:\BFresh\WpfApp1\Model\bin\Debug\Model.pdb
+M:\BFresh\WpfApp1\Model\bin\Debug\WpfApp1.exe
+M:\BFresh\WpfApp1\Model\bin\Debug\WpfApp1.pdb
+M:\BFresh\WpfApp1\Model\bin\Debug\WpfApp1.exe.config
+M:\BFresh\WpfApp1\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+M:\BFresh\WpfApp1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+M:\BFresh\WpfApp1\Model\obj\Debug\Model.csproj.Up2Date
+M:\BFresh\WpfApp1\Model\obj\Debug\Model.dll
+M:\BFresh\WpfApp1\Model\obj\Debug\Model.pdb
+E:\שרת-לקוח\SERVER\Model\bin\Debug\Model.dll
+E:\שרת-לקוח\SERVER\Model\bin\Debug\Model.pdb
+E:\שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+E:\שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\שרת-לקוח\SERVER\Model\obj\Debug\Model.dll
+E:\שרת-לקוח\SERVER\Model\obj\Debug\Model.pdb
+D:\שרת-לקוח\SERVER\Model\bin\Debug\Model.dll
+D:\שרת-לקוח\SERVER\Model\bin\Debug\Model.pdb
+D:\שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\שרת-לקוח\SERVER\Model\obj\Debug\Model.dll
+D:\שרת-לקוח\SERVER\Model\obj\Debug\Model.pdb
+M:\גיבוי\שרת-לקוח\SERVER\Model\bin\Debug\Model.dll
+M:\גיבוי\שרת-לקוח\SERVER\Model\bin\Debug\Model.pdb
+M:\גיבוי\שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+M:\גיבוי\שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת-לקוח\SERVER\Model\obj\Debug\Model.dll
+M:\גיבוי\שרת-לקוח\SERVER\Model\obj\Debug\Model.pdb
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Model\bin\Debug\Model.dll
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Model\bin\Debug\Model.pdb
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Model\obj\Debug\Model.dll
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\Model\obj\Debug\Model.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Model\bin\Debug\Model.dll
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Model\bin\Debug\Model.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Model\obj\Debug\Model.dll
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\Model\obj\Debug\Model.pdb
+M:\גיבוי\4שרת-לקוח\SERVER\Model\bin\Debug\Model.dll
+M:\גיבוי\4שרת-לקוח\SERVER\Model\bin\Debug\Model.pdb
+M:\גיבוי\4שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+M:\גיבוי\4שרת-לקוח\SERVER\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+M:\גיבוי\4שרת-לקוח\SERVER\Model\obj\Debug\Model.dll
+M:\גיבוי\4שרת-לקוח\SERVER\Model\obj\Debug\Model.pdb

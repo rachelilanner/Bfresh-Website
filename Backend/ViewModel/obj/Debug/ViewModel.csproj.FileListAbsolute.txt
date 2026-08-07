@@ -1,0 +1,128 @@
+M:\BFresh\WpfApp1\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+M:\BFresh\WpfApp1\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+E:\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.dll
+E:\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+E:\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.dll
+E:\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.pdb
+E:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+E:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+E:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+E:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.dll
+E:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+F:\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.dll
+F:\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+F:\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.dll
+F:\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.pdb
+F:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+F:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+F:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+F:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.dll
+F:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+D:\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.dll
+D:\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+D:\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.dll
+D:\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.pdb
+D:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+D:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+D:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.dll
+D:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+M:\גיבוי\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.dll
+M:\גיבוי\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+M:\גיבוי\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.dll
+M:\גיבוי\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.pdb
+M:\גיבוי\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+M:\גיבוי\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+M:\גיבוי\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.dll
+M:\גיבוי\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.dll
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.dll
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.pdb
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.dll
+M:\פרוייקט ביפקרש\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.dll
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Microsoft\Desktop\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.dll
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.dll
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.pdb
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.dll
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+M:\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.dll
+M:\שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+M:\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.dll
+M:\שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.pdb
+M:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+M:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+M:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+M:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.dll
+M:\שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+M:\גיבוי\4שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.dll
+M:\גיבוי\4שרת-לקוח\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+M:\גיבוי\4שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.dll
+M:\גיבוי\4שרת-לקוח\SERVER\ViewModel\bin\Debug\Model.pdb
+M:\גיבוי\4שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+M:\גיבוי\4שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+M:\גיבוי\4שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+M:\גיבוי\4שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.dll
+M:\גיבוי\4שרת-לקוח\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 5\SERVER\ViewModel\bin\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 5\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 5\SERVER\ViewModel\bin\Debug\Model.dll
+M:\גיבוי\שרת לקוח 5\SERVER\ViewModel\bin\Debug\Model.pdb
+M:\גיבוי\שרת לקוח 5\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 5\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 5\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+M:\גיבוי\שרת לקוח 5\SERVER\ViewModel\obj\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 5\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 7\SERVER\ViewModel\bin\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 7\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 7\SERVER\ViewModel\bin\Debug\Model.dll
+M:\גיבוי\שרת לקוח 7\SERVER\ViewModel\bin\Debug\Model.pdb
+M:\גיבוי\שרת לקוח 7\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 7\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 7\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+M:\גיבוי\שרת לקוח 7\SERVER\ViewModel\obj\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 7\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+C:\Racheli Projects\שרת לקוח 8\SERVER\ViewModel\bin\Debug\ViewModel.dll
+C:\Racheli Projects\שרת לקוח 8\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+C:\Racheli Projects\שרת לקוח 8\SERVER\ViewModel\bin\Debug\Model.dll
+C:\Racheli Projects\שרת לקוח 8\SERVER\ViewModel\bin\Debug\Model.pdb
+C:\Racheli Projects\שרת לקוח 8\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 8\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 8\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+C:\Racheli Projects\שרת לקוח 8\SERVER\ViewModel\obj\Debug\ViewModel.dll
+C:\Racheli Projects\שרת לקוח 8\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 10\SERVER\ViewModel\bin\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 10\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 10\SERVER\ViewModel\bin\Debug\Model.dll
+M:\גיבוי\שרת לקוח 10\SERVER\ViewModel\bin\Debug\Model.pdb
+M:\גיבוי\שרת לקוח 10\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 10\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 10\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+M:\גיבוי\שרת לקוח 10\SERVER\ViewModel\obj\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 10\SERVER\ViewModel\obj\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 11\SERVER\ViewModel\bin\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 11\SERVER\ViewModel\bin\Debug\ViewModel.pdb
+M:\גיבוי\שרת לקוח 11\SERVER\ViewModel\bin\Debug\Model.dll
+M:\גיבוי\שרת לקוח 11\SERVER\ViewModel\bin\Debug\Model.pdb
+M:\גיבוי\שרת לקוח 11\SERVER\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 11\SERVER\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 11\SERVER\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+M:\גיבוי\שרת לקוח 11\SERVER\ViewModel\obj\Debug\ViewModel.dll
+M:\גיבוי\שרת לקוח 11\SERVER\ViewModel\obj\Debug\ViewModel.pdb

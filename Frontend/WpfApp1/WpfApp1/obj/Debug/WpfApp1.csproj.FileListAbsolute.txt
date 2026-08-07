@@ -1,0 +1,1555 @@
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\DrinksMenu.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\DrinksMenu.baml
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\DrinksMenu.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+E:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\mora\Desktop\רחלי לנר\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+D:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+F:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+C:\Users\Microsoft\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\רחלי לנר לבדיקה\פרוייקט ביפקרש- למורה\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\גיבוי\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+M:\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+C:\Racheli Projects\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\HOME\Desktop\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Racheli Projects\שרת לקוח 2\שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+M:\גיבוי\4שרת-לקוח\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 5\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\שרת לקוח 6\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+M:\גיבוי\שרת לקוח 7\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת לקוח 8\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+M:\גיבוי\שרת לקוח 9\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFinish.g.cs
+M:\גיבוי\שרת לקוח 10\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFinish.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFinish.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFinish.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת לקוח 11\NewClient\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFinish.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFinish.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Racheli Projects\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFinish.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFinish.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+M:\גיבוי\שרת לקוח 11\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\bin\Debug\HamburgerMenu.dll
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\bin\Debug\NumericUpDown.dll
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\Cart.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\NewCustomer.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\OpenPage.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFinish.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageManager.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PagePayment.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCItems.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\Welcome.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WinToppin.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\Cart.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerNewDrink.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\ManagerViewDrinks.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\NewCustomer.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\OpenPage.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageDrinksMenu.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFinish.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageFrozenYogurt.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow2.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageMainWindow3.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageManager.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageNewMenu.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PagePayment.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateCategory.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\PageUpdateToppins.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\ReturningCustomer.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\TypeOfCustomer.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCBubbleItem.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCItems.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCNumericUD.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\UCOrderLict.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\Welcome.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WinToppin.baml
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\פרוייקט ביפרש להגשה\שרת לקוח\CLIENT\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

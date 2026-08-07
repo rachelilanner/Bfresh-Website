@@ -1,0 +1,47 @@
+﻿<Page x:Class="WpfApp1.PageMainWindow2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+       xmlns:HamburgerMenu="clr-namespace:HamburgerMenu;assembly=HamburgerMenu"
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageMainWindow2" >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+           
+     
+            <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+        <Frame x:Name="frm1"  Grid.Column="0" Grid.ColumnSpan="3" Source="Welcome.xaml" ></Frame>
+        <HamburgerMenu:HamburgerMenu Grid.Row="1" x:Name="hamburger"  Grid.Column="0" Background="Gray" MenuItemForeground="Black" HorizontalAlignment="Left" >
+            <HamburgerMenu:HamburgerMenuItem x:Name="Drinks1" Selected="Drinks1_Selected" SelectionIndicatorColor="gray" ></HamburgerMenu:HamburgerMenuItem>
+       
+            <HamburgerMenu:HamburgerMenuItem SelectionIndicatorColor="#FFF70606" x:Name="Drinks" Text="Drinks" Icon="\Images\cup_only.png"  Selected="Drinks_Selected">
+                
+            </HamburgerMenu:HamburgerMenuItem>
+
+            <!-- B-Bubble -->
+            <HamburgerMenu:HamburgerMenuItem SelectionIndicatorColor="#FFF70606" x:Name="Bubble" Text="Bubble" Icon="\Images\output-onlinepngtools.png" Selected="Bubble_Selected">
+
+            </HamburgerMenu:HamburgerMenuItem>
+
+    
+            <HamburgerMenu:HamburgerMenuItem SelectionIndicatorColor="#FFF70606" x:Name="FrozenYogurt" Text="Frozen" Icon="\Images\yogurt-removebg-preview.png" Selected="FrozenYogurt_Selected">
+               
+            </HamburgerMenu:HamburgerMenuItem>
+
+        
+            <HamburgerMenu:HamburgerMenuItem SelectionIndicatorColor="#FFF70606" x:Name="MyCart" Text="My Cart" Icon="\Images\Screenshot_2025-03-30_180553-removebg-preview.png" Selected="MyCart_Selected">
+                
+            </HamburgerMenu:HamburgerMenuItem>
+            <HamburgerMenu:HamburgerMenuItem Icon="\Images\home icon.png" SelectionIndicatorColor="#FFF70606" x:Name="Home" Text="Home" Selected="Home_Selected"  >
+
+            </HamburgerMenu:HamburgerMenuItem>
+        </HamburgerMenu:HamburgerMenu>
+       
+    </Grid>
+</Page>

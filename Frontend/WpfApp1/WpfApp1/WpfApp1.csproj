@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F3C052D5-768E-4CDA-89AC-26DA88064E0E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WpfApp1</RootNamespace>
+    <AssemblyName>WpfApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.WPF, Version=4.7.0.37774, Culture=neutral, PublicKeyToken=0758b07a11a4f466, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.WPF.4.7.0.9\lib\net40\FontAwesome.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="HamburgerMenu, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HamburgerMenu.0.1.0\lib\net40\HamburgerMenu.dll</HintPath>
+    </Reference>
+    <Reference Include="NumericUpDown, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NumericUpDown.3.0.2\lib\NumericUpDown.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Cart.xaml.cs">
+      <DependentUpon>Cart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ServiceReference1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerNewDrink.xaml.cs">
+      <DependentUpon>ManagerNewDrink.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerViewDrinks.xaml.cs">
+      <DependentUpon>ManagerViewDrinks.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageDrinksMenu.xaml.cs">
+      <DependentUpon>PageDrinksMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageFinish.xaml.cs">
+      <DependentUpon>PageFinish.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageFrozenYogurt.xaml.cs">
+      <DependentUpon>PageFrozenYogurt.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageMainWindow2.xaml.cs">
+      <DependentUpon>PageMainWindow2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageMainWindow3.xaml.cs">
+      <DependentUpon>PageMainWindow3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageManager.xaml.cs">
+      <DependentUpon>PageManager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageNewMenu.xaml.cs">
+      <DependentUpon>PageNewMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PagePayment.xaml.cs">
+      <DependentUpon>PagePayment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageUpdateCategory.xaml.cs">
+      <DependentUpon>PageUpdateCategory.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageUpdateToppins.xaml.cs">
+      <DependentUpon>PageUpdateToppins.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReturningCustomer.xaml.cs">
+      <DependentUpon>ReturningCustomer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TypeOfCustomer.xaml.cs">
+      <DependentUpon>TypeOfCustomer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UCBubbleItem.xaml.cs">
+      <DependentUpon>UCBubbleItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UCItems.xaml.cs">
+      <DependentUpon>UCItems.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UCNumericUD.xaml.cs">
+      <DependentUpon>UCNumericUD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UCOrderLict.xaml.cs">
+      <DependentUpon>UCOrderLict.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vars.cs" />
+    <Compile Include="Welcome.xaml.cs">
+      <DependentUpon>Welcome.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WinToppin.xaml.cs">
+      <DependentUpon>WinToppin.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Cart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="ManagerNewDrink.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ManagerViewDrinks.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NewCustomer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="OpenPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PageDrinksMenu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageFinish.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageFrozenYogurt.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageMainWindow2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageMainWindow3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageManager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageNewMenu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PagePayment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageUpdateCategory.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageUpdateToppins.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReturningCustomer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TypeOfCustomer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UCBubbleItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UCItems.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UCNumericUD.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UCOrderLict.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Welcome.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WinToppin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="NewCustomer.xaml.cs">
+      <DependentUpon>NewCustomer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OpenPage.xaml.cs">
+      <DependentUpon>OpenPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Connected Services\ServiceReference1\item.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference1\item1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference1\item2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference1\item3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference1\Service1.wsdl" />
+    <None Include="Connected Services\ServiceReference1\WpfApp1.ServiceReference1.Category.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference1\WpfApp1.ServiceReference1.CompositeType.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference1\WpfApp1.ServiceReference1.Customers.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference1\WpfApp1.ServiceReference1.Items.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference1\WpfApp1.ServiceReference1.OrderDetails.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference1\WpfApp1.ServiceReference1.Orders.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference1\WpfApp1.ServiceReference1.ToppingDetails.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference1\WpfApp1.ServiceReference1.Toppings.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Images\B-Bubble cream-cafe-brulee.webp" />
+    <None Include="Images\B-Bubble cream-cafe-pecan.webp" />
+    <None Include="Images\B-Bubble HOT-MATCHA-BRULEE.webp" />
+    <None Include="Images\B-Bubble HOT-TIGER-BRULEE.webp" />
+    <None Include="Images\B-Bubble Lotus.webp" />
+    <None Include="Images\B-Bubble TARO-BRULEE.webp" />
+    <None Include="Images\B-Bubblle CHOCO-BRULEE.webp" />
+    <None Include="Images\b-moringa.webp" />
+    <None Include="Images\B-Tutti Fruity.avif" />
+    <None Include="Images\DALL·E 2025-02-20 15.33.01 - A realistic empty shopping cart with a shiny metallic frame and four wheels, placed against a clean white background. The cart has a standard supermar.webp" />
+    <None Include="Images\DALL·E 2025-03-27 23.07.21 - A minimalist white icon illustrating toppings such as granola, chocolate shavings, and nuts, with a fully transparent background and no black elements.webp" />
+    <None Include="Images\Drink Images.avif" />
+    <None Include="Images\Our Menu.webp" />
+    <None Include="Images\toppings icon.webp" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\ServiceReference1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\item.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\b-blueberry.jpg" />
+    <Resource Include="Images\B-Bubble Chocolate.jpg" />
+    <Resource Include="Images\B-Bubble Strawberry.jpg" />
+    <Resource Include="Images\b-machneyuda.jpg" />
+    <Resource Include="Images\B-New York.jpg" />
+    <Resource Include="Images\Bubble Images.jpg" />
+    <Resource Include="Images\Club Members.png" />
+    <Resource Include="Images\Frozen Yogurt.jpg" />
+    <Resource Include="Images\Logo.png" />
+    <Resource Include="Images\Logo2.png" />
+    <Resource Include="Images\Logo3.jpg" />
+    <Resource Include="Images\Many drinks %28Random%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\b-acai-white-bg.jpg" />
+    <Resource Include="Images\B-Free-white-bg.jpg" />
+    <Resource Include="Images\b-love-white-bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\b-chill-white-bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\b-berlin-white-bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\b-caribian-white-bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\image_20250214_155052_515_37.jpg" />
+    <Resource Include="Images\image_20250214_155332_864_47.jpg" />
+    <Resource Include="Images\image_20250214_155624_800_63.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\cup_only.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\swirly arrow_no_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\arrow_transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\arrow_transparent - 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Frozen_Yogurt_Transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\toppings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Frozen_Yogurt_Transparent-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\67e69d4c0cdf0a000b7e6ccf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\club.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\sh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\yogurt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\bubble-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\B-Tutti Fruity.png" />
+    <Resource Include="Images\Bubble Images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Drink Images.png" />
+    <Resource Include="Images\toppings-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\yogurt-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Screenshot_2025-03-30_180553-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\white_image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Screenshot_2025-03-30_181407-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\output-onlinepngtools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\garbage .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\pistachio bubble.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Our Menu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\icons8-home.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\icons8-home-32-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\icons8-home-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\home icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

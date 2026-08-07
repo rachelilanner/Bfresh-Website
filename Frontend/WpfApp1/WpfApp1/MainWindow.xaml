@@ -1,0 +1,98 @@
+﻿<Window x:Class="BfreshProject.MainWindow"
+      
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:HamburgerMenu="clr-namespace:HamburgerMenu;assembly=HamburgerMenu"
+        xmlns:local="clr-namespace:BfreshProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--<Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="22"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            
+        </Grid.RowDefinitions>
+       
+
+        <Frame x:Name="frm" Margin="25" Grid.Column="0" NavigationUIVisibility="Visible" Grid.ColumnSpan="2" Grid.Row="0" Grid.RowSpan="3"  Source="OpenPage.xaml"  ></Frame>
+        
+        
+        <!--<StackPanel Grid.Column="0" Grid.Row="1" Grid.RowSpan="3" >
+            <Button  FontWeight="Bold" Foreground="White" Background="#87CEFA" Height="40" BorderBrush="Black" BorderThickness="1.5" ToolTip="B-Smoothie" >
+                <Button.Content>
+                    <Grid>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+
+                        <Image Grid.Column="0" Source="M:\BFresh\BfreshProject\BfreshProject\BfreshProject\Images\b-acai.webp" Width="30" Height="30" HorizontalAlignment="Center"/>
+
+                        <TextBlock Grid.Column="1" Text="B-Smoothie" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                    </Grid>
+
+                </Button.Content>
+            </Button>
+            <Button FontWeight="Bold" Foreground="White" Background="#87CEFA" Height="40" BorderBrush="Black" BorderThickness="1.5" ToolTip="B-Bubble Brulee"  >
+                <Button.Content>
+                    <Grid>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+
+                        <Image Grid.Column="0"  Width="30" Height="30" HorizontalAlignment="Center"/>
+
+                        <TextBlock Grid.Column="1" FontSize="9" Text="B-Bubble Brulee" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                    </Grid>
+
+                </Button.Content>
+            </Button>
+            <Button FontWeight="Bold" Foreground="White" Background="#87CEFA" Height="40" BorderBrush="Black" BorderThickness="1.5" ToolTip="B-Frozen yogurt"  >
+                <Button.Content>
+                    <Grid>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+
+                        <Image Grid.Column="0"   Width="30" Height="30" Source="M:\BFresh\BfreshProject\BfreshProject\BfreshProject\Images\Frozen Yogurt.jpg" HorizontalAlignment="Center"/>
+
+                        <TextBlock Grid.Column="1" Text="B-Frozen Yogurt" FontSize="9" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                    </Grid>
+
+                </Button.Content>
+            </Button>
+            <Button FontWeight="Bold" Foreground="White" Background="#87CEFA" Height="40" BorderBrush="Black" BorderThickness="1.5" ToolTip="B-My Cart"  >
+                <Button.Content>
+                    <Grid>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+
+                        <Image Grid.Column="0"  Width="30" Height="30" HorizontalAlignment="Center"/>
+
+                        <TextBlock Grid.Column="1" Text="B-My Cart" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                    </Grid>
+
+                </Button.Content>
+            </Button>
+        </StackPanel>-->
+    
+    </Grid>
+</Window>
